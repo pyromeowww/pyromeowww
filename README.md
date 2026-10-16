@@ -1,5 +1,6 @@
 # 👋 Привет, я Даниил (`pyromeowww`)
 
+> *Чистый код, чистая совесть, ноль долгов, ревью доволен* 🕊️
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Junior%20Go%20Developer-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -19,7 +20,7 @@ Backend-разработчик на **Go**. Специализируюсь на 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-* **Стандартная библиотека:** (`net/http`, `encoding/json`, `database/sql`, `time`, `os`, `testing`)
+* **Стандартная библиотека:** `net/http`, `encoding/json`, `database/sql`, `time`, `os`, `testing`
 * **Архитектура & Подходы:** Clean Package Structure (`pkg/`), Unit-тестирование, Graceful Shutdown
 * **Базы данных:** SQLite (`modernc.org/sqlite`), проектирование схем, индексация полей и управление соединениями
 
@@ -31,6 +32,7 @@ Backend-разработчик на **Go**. Специализируюсь на 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
 
+* **Инструменты & Сборка:** Docker, Git, Linux / Bash, Go Modules (`go.mod`)
 * **Конфигурация:** Переменные окружения (`os.Getenv`) с фолбэками по умолчанию
 
 ---
@@ -46,7 +48,7 @@ Backend-разработчик на **Go**. Специализируюсь на 
   * Реализовал RESTful API эндпоинты с парсингом JSON-запросов и корректной обработкой HTTP-ошибок.
   * Написал кастомный алгоритм расчета правил повторения задач (дни, месяцы, года) с помощью пакета `time` и покрыл его тестами.
   * Спроектировал схему БД SQLite с индексацией по дате для быстрых выборок и автоматической инициализацией при старте.
-  * Настроило конфигурацию сервиса через переменные окружения (`os.Getenv`).
+  * Настроил конфигурацию сервиса через переменные окружения (`os.Getenv`).
 
 ---
 
