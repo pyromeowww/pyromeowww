@@ -54,16 +54,24 @@
 ### 🚀 Флагманский проект
 
 #### 📌 [Task Scheduler](https://github.com/pyromeowww/task-scheduler)
-*REST API сервис для автоматического планирования и расчёта повторения задач.*
+*Автономный REST API сервис для гибкого автоматического планирования и расчёта повторения задач.*
 
-* **Архитектура:** Разделение модулей на логику БД (`pkg/db`) и HTTP-обработчики (`pkg/server`).
-* **Бизнес-логика:** Кастомный алгоритм расчета правил повторения (дни, месяцы, года) на базе пакета `time`, полностью покрытый Unit-тестами.
-* **Хранилище:** Схема БД SQLite с индексацией по дате для мгновенных выборок.
-* **Окружение:** Конфигурация через переменные окружения (`os.Getenv`), сборка в минимальный Docker-образ.
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unit_Tests-100%25-brightgreen?style=flat-square&logo=testinglibrary&logoColor=white" />
+</p>
+
+* ⚡ **Чистая архитектура:** Чёткое разделение модулей на слой бизнес-логики БД (`pkg/db`) и HTTP-обработчики (`pkg/server`).
+* 🗓️ **Бизнес-логика:** Кастомный алгоритм расчета правил повторения (дни, месяцы, года) на базе пакета `time`, полностью покрытый **Unit-тестами**.
+* 📊 **Хранилище:** Реляционная схема SQLite с индексацией по дате для мгновенных выборок и автоинициализацией.
+* 🐳 **Окружение & CI:** Конфигурация через переменные окружения (`os.Getenv`), сборка в минимальный Docker-образ и локальное тестирование через Postman.
 
 <p align="left">
   <a href="https://github.com/pyromeowww/task-scheduler">
-    <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
