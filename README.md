@@ -1,7 +1,7 @@
 # <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Привет, я Даниил (`pyromeowww`)
 
 <h1 align="center">
-  <img src="./assets/go-dead-ahead-zombie-warfare.gif" width="700" alt="Go Dead Ahead Zombie Warfare" />
+  <img src="./assets/go-dead-ahead-zombie-warfare.gif" width="300" alt="Go Dead Ahead Zombie Warfare" />
 </h1>
 
 > *Чистый код, чистая совесть, ноль долгов, ревью доволен* 🕊️
