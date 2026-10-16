@@ -53,36 +53,21 @@
 
 ### 🚀 Флагманский проект
 
-<table>
-  <tr>
-    <td style="border: none;">
-      <h3>📌 <a href="https://github.com/pyromeowww/task-scheduler">Task Scheduler (Планировщик задач)</a></h3>
-      <p><i>Автономный REST API сервис для гибкого автоматического планирования и расчёта повторения задач.</i></p>
-      
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Unit_Tested-100%25-brightgreen?style=flat-square" />
-      </p>
+### 🚀 Флагманский проект
 
-      <ul>
-        <li>⚡ <b>Чистая архитектура:</b> Строгое разделение слоёв на бизнес-логику работы с БД (<code>pkg/db</code>) и HTTP-хэндлеры (<code>pkg/server</code>).</li>
-        <li>🗓️ <b>Алгоритм повторений:</b> Кастомный движок расчёта дат на базе пакета <code>time</code> (поддержка правил повторения по дням, месяцам и годам).</li>
-        <li>📊 <b>Быстрое хранилище:</b> Оптимизированные таблицы SQLite с индексацией по дате выполнения для мгновенного поиска.</li>
-        <li>🛠️ <b>Качество и CI:</b> Алгоритмы повторения и HTTP-эндпоинты полностью покрыты Unit-тестами.</li>
-        <li>🐳 <b>Контейнеризация:</b> Конфигурируется через переменные окружения (<code>os.Getenv</code>) и упакован в Docker-образ.</li>
-      </ul>
+#### 📌 [Task Scheduler](https://github.com/pyromeowww/task-scheduler)
+*REST API сервис для автоматического планирования и расчёта повторения задач.*
 
-      <p>
-        <a href="https://github.com/pyromeowww/task-scheduler">
-          <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+* **Архитектура:** Разделение модулей на логику БД (`pkg/db`) и HTTP-обработчики (`pkg/server`).
+* **Бизнес-логика:** Кастомный алгоритм расчета правил повторения (дни, месяцы, года) на базе пакета `time`, полностью покрытый Unit-тестами.
+* **Хранилище:** Схема БД SQLite с индексацией по дате для мгновенных выборок.
+* **Окружение:** Конфигурация через переменные окружения (`os.Getenv`), сборка в минимальный Docker-образ.
+
+<p align="left">
+  <a href="https://github.com/pyromeowww/task-scheduler">
+    <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
