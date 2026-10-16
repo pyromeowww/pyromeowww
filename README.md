@@ -50,5 +50,5 @@
 </p>
 
 <div data-importer="profile-views" align="left">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=pyromeowww.pyromeowww&left_color=midnightblue" height="50" />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=pyromeowww.pyromeowww&left_color=midnightblue" height="70" />
 </div>
