@@ -13,8 +13,9 @@
 </table>
 
 <p align="left">
-  <a href="https://t.me/pyromeowww"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:daniilackov21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Kazan%2C%20Russia-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-00ADD8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Telegram-@pyromeowww-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
 </p>
 
 ---
