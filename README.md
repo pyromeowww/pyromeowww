@@ -49,10 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyromeowww&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/time?username=pyromeowww&theme=tokyonight&hour_offset=3" alt="Clock" />
-</p>
-
 <div data-importer="profile-views" align="left">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=pyromeowww.pyromeowww&left_color=midnightblue" height="70" />
 </div>
