@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/go-dead-ahead-zombie-warfare.gif" width="700" alt="Go Dead Ahead Zombie Warfare" />
+  <img src="./assets/go-dead-ahead-zombie-warfare.gif" width="300" alt="Go Dead Ahead Zombie Warfare" />
 </h1>
 
 <h2 align="center">Привет, я Даниил (<a href="https://github.com/pyromeowww">`pyromeowww`</a>)</h2>
