@@ -45,9 +45,9 @@
 ### 📬 Контакты для связи
 
 <p align="left">
-  <a href="https://t.me/pyromeowww"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:daniilackov21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/pyromeowww"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://t.me/pyromeowww"><img src="https://img.shields.io/badge/Telegram-pyromeowww-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:daniilackov21@gmail.com"><img src="https://img.shields.io/badge/Gmail-daniilackov21-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/pyromeowww"><img src="https://img.shields.io/badge/GitHub-pyromeowww-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
