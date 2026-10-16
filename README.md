@@ -10,14 +10,21 @@ Backend-разработчик на **Go**. Занимаюсь проектир�
 
 ---
 
-### 🛠️ Технологический стек
+### 💻 Стек
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
 
-| Категория | Технологии |
-| :--- | :--- |
-| **Основной язык** | `Go (Golang)` |
-| **Веб & API** | `net/http`, `REST API`, `JSON`, `HTTP Handlers` |
-| **Базы данных** | `SQLite`, `SQL`, `database/sql`, `modernc.org/sqlite` |
-| **Инфраструктура** | `Docker`, `Git`, `Linux / Bash`, `Environment Variables (os)` |
+### 🧰 Инструменты
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+</p>
 
 ---
 
