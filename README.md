@@ -20,7 +20,8 @@ Backend-разработчик на **Go**. Специализируюсь на 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-* **Стандартная библиотека:** `net/http`, `encoding/json`, `database/sql`, `time`, `os`, `testing`
+* **Язык & REST API:** Go (Golang), проектирование RESTful эндпоинтов, обработка JSON
+* **Стандартная библиотека:** `net/http`, `encoding/json`, `database/sql`, `time`, `os`, `context`, `strconv`, `fmt`, `log`, `testing`
 * **Архитектура & Подходы:** Clean Package Structure (`pkg/`), Unit-тестирование, Graceful Shutdown
 * **Базы данных:** SQLite (`modernc.org/sqlite`), проектирование схем, индексация полей и управление соединениями
 
@@ -32,8 +33,8 @@ Backend-разработчик на **Go**. Специализируюсь на 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
 
-* **Контейнеризация:** Написание `Dockerfile` для сборки минимальных образов Go-приложений
-* **Окружение & Окончание:** `Linux / Bash`, переменные окружения (`os.Getenv`), управление зависимостями через `go.mod`
+* **Контейнеризация:** `Docker` (написание `Dockerfile` для сборки минимальных образов Go-приложений)
+* **Окружение & Модули:** `Linux / Bash`, переменные окружения (`os.Getenv`), управление зависимостями через `go.mod`
 * **Контроль версий:** `Git` (ветки, коммиты, работа с GitHub)
 
 ---
