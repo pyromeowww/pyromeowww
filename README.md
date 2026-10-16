@@ -1,15 +1,18 @@
-<h1 align="center">
-  <img src="./assets/go-dead-ahead-zombie-warfare.gif" width="300" alt="Go Dead Ahead Zombie Warfare" />
-</h1>
+<table border="0">
+  <tr>
+    <td width="220px" align="center" valign="middle">
+      <img src="./assets/go-dead-ahead-zombie-warfare.gif" width="200" alt="Go Dead Ahead Zombie Warfare" />
+    </td>
+    <td valign="middle">
+      <h1>Привет!</h1>
+      <h2>Я Даниил (<code>pyromeowww</code>)</h2>
+      <p><b>Junior Go (Golang) Backend Developer</b></p>
+      <p><i>«Чистый код, чистая совесть, ноль технического долга»</i> 🕊️</p>
+    </td>
+  </tr>
+</table>
 
-<h2 align="center">Привет, я Даниил (<a href="https://github.com/pyromeowww">`pyromeowww`</a>)</h2>
-
-<p align="center">
-  <b>Junior Go (Golang) Backend Developer</b><br>
-  <i>«Чистый код, чистая совесть, ноль технического долга»</i> 🕊️
-</p>
-
-<p align="center">
+<p align="left">
   <a href="https://t.me/pyromeowww"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:daniilackov21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/pyromeowww"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
