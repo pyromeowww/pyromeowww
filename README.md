@@ -1,8 +1,10 @@
-# <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Привет, я Даниил (`pyromeowww`)
+<img data-importer="image" align="left" height="200" src="https://media.tenor.com/euk0fT2S1-MAAAAi/go-dead-ahead-zombie-warfare.gif"  />
 
-<h1 align="center">
-  <img src="./assets/go-dead-ahead-zombie-warfare.gif" width="200" alt="Go Dead Ahead Zombie Warfare" />
-</h1>
+###
+
+<h1 data-importer="text" align="left">Привет!</h1>
+
+###
 
 > *Чистый код, чистая совесть, ноль долгов, ревью доволен* 🕊️
 
