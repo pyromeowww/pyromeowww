@@ -1,8 +1,8 @@
 # <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Привет, я Даниил (`pyromeowww`)
 
-<p align="center">
-  <img src="./assets/golang-generic-ezgif.com-optimize.gif" width="120%" height="400px" style="object-fit: cover;" alt="Golang GIF" />
-</p>
+<h1 align="center">
+  <img src="./assets/go-dead-ahead-zombie-warfare.gif" width="700" alt="Go Dead Ahead Zombie Warfare" />
+</h1>
 
 > *Чистый код, чистая совесть, ноль долгов, ревью доволен* 🕊️
 
