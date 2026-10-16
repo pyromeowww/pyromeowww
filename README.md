@@ -37,6 +37,6 @@ Backend-разработчик на **Go**. Занимаюсь проектир�
 
 ### 📬 Контакты
 
-* **Telegram:** [Написать в Telegram](https://t.me/@pyromeowww)
+* **Telegram:** [@pyromeowww](https://t.me/pyromeowww)
 * **Email:** `daniilackov21@gmail.com`
 * **GitHub:** [pyromeowww](https://github.com/pyromeowww)
