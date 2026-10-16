@@ -32,8 +32,9 @@ Backend-разработчик на **Go**. Специализируюсь на 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
 
-* **Инструменты & Сборка:** Docker, Git, Linux / Bash, Go Modules (`go.mod`)
-* **Конфигурация:** Переменные окружения (`os.Getenv`) с фолбэками по умолчанию
+* **Контейнеризация:** Написание `Dockerfile` для сборки минимальных образов Go-приложений
+* **Окружение & Окончание:** `Linux / Bash`, переменные окружения (`os.Getenv`), управление зависимостями через `go.mod`
+* **Контроль версий:** `Git` (ветки, коммиты, работа с GitHub)
 
 ---
 
