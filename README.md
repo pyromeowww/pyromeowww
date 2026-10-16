@@ -20,13 +20,32 @@
 
 ---
 
-### 💻 Стек и технологии
+### 🛠️ Мои инструменты и стек
 
-* **Язык & Core:** Go (Golang), RESTful API, JSON.
-* **Стандартная библиотека:** `net/http`, `database/sql`, `encoding/json`, `time`, `os`, `context`, `strconv`, `fmt`, `log`, `testing`.
-* **Базы данных:** SQLite (`modernc.org/sqlite`), проектирование реляционных схем, индексация.
-* **Инфраструктура & Tools:** Docker (`Dockerfile`), Linux / Bash, Git, Go Modules (`go.mod`).
-* **Архитектурные подходы:** Clean Package Structure (`pkg/`), Unit-тестирование, Graceful Shutdown.
+#### 💻 Языки программирования
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+#### 🗄️ Базы данных & Хранилища
+<p align="left">
+  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+#### ⚙️ Бэкенд & API
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Standard_Library-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Standard Library" />
+</p>
+
+#### 🐳 Инфраструктура & Инструменты
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
