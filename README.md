@@ -19,8 +19,8 @@ Backend-разработчик на **Go**. Специализируюсь на 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-* **Язык & Стандартная библиотека:** Go (`net/http`, `encoding/json`, `database/sql`, `time`, `os`, `testing`)
-* **Архитектура & Подходы:** REST API, Clean Package Structure (`pkg/`), Unit-тестирование, Graceful Shutdown
+* **Стандартная библиотека:** (`net/http`, `encoding/json`, `database/sql`, `time`, `os`, `testing`)
+* **Архитектура & Подходы:** Clean Package Structure (`pkg/`), Unit-тестирование, Graceful Shutdown
 * **Базы данных:** SQLite (`modernc.org/sqlite`), проектирование схем, индексация полей и управление соединениями
 
 ### 🧰 Дополнительные навыки и инструменты
@@ -31,7 +31,6 @@ Backend-разработчик на **Go**. Специализируюсь на 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
 
-* **Инфраструктура & Сборка:** Docker, Go Modules (`go.mod`), Git, Linux / Bash
 * **Конфигурация:** Переменные окружения (`os.Getenv`) с фолбэками по умолчанию
 
 ---
