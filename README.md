@@ -42,7 +42,15 @@
 
 ---
 
+### 📬 Контакты для связи
+
+* **Telegram:** [@pyromeowww](https://t.me/pyromeowww)
+* **Email:** `daniilackov21@gmail.com`
+* **GitHub:** [pyromeowww](https://github.com/pyromeowww)
+
 ### 📊 Статистика активности
+
+---
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pyromeowww&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" height="165" />
