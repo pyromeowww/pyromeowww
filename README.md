@@ -22,9 +22,10 @@
 
 ### 🛠️ Мои инструменты и стек
 
-#### 💻 Языки программирования
+#### 💻 Языки программирования & Тестирование
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Unit_Tests-C21325?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Unit Tests" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
@@ -37,6 +38,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/Standard_Library-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Standard Library" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 #### 🐳 Инфраструктура & Инструменты
