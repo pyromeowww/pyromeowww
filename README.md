@@ -13,9 +13,9 @@
 </table>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Location-Kazan%2C%20Russia-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-00ADD8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Telegram-@pyromeowww-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Junior%20Go%20Developer-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Kazan%2C%20Russia-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20opportunities-brightgreen?style=flat-square" />
 </p>
 
 ---
