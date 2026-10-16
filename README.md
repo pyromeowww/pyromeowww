@@ -1,7 +1,7 @@
 # <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Привет, я Даниил (`pyromeowww`)
 
 <p align="center">
-  <img src="./assets/golang-generic-ezgif.com-optimize.gif" width="100%" height="350px" style="object-fit: cover;" alt="Golang GIF" />
+  <img src="./assets/golang-generic-ezgif.com-optimize.gif" width="100%" height="400px" style="object-fit: cover;" alt="Golang GIF" />
 </p>
 
 > *Чистый код, чистая совесть, ноль долгов, ревью доволен* 🕊️
