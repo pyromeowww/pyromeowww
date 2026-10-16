@@ -47,4 +47,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pyromeowww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyromeowww&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=pyromeowww.pyromeowww&left_color=midnightblue"  />
+</div>
+
 </p>
