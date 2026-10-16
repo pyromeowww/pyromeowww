@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://assets.imgix.net/examples/clock.png" width="150" ... /> 
+  <img src="https://github-readme-stats.vercel.app/api/time?username=pyromeowww&theme=tokyonight&hour_offset=3" alt="Clock" />
 </p>
 
 <div data-importer="profile-views" align="left">
